@@ -2,9 +2,10 @@
 Simple CSV database that allows you to save data into a CSV file.
 
 Requirments:
-- Python 3.9 installed
+- Python installed
 - PyQT 5 installed
 - Pandas library installed
+- CSV reader library installed
 
 How to use ?
 1. Add name to the column and press a button to add new column to the table
